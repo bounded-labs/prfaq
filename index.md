@@ -20,9 +20,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## I have a PRFAQ to include - how do I do that? 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Create a new PRFAQ as a .txt - no fancy .docs or other formats here!
+2.  Start a pull request in the /collections folder, or shoot your PRFAQ over to newprfaq at boundedlabs.com and we will add it eventually. 
+3.  Enjoy!
 
 ### There's a horizontal rule below this.
 
