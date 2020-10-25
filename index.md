@@ -1,71 +1,25 @@
 # PRFAQ.fyi
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+This is a project of [Bounded Labs](boundedlabs.com), built for people who are looking for examples of PRFAQs and are willing to contribute their created examples for others!
 * * * 
 
 ## What is a PRFAQ?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+PRFAQ stands for Press Release, Frequently Asked Questions. 
 
 ## What is a PRFAQ used for?
 
-*   This is an unordered list following a header.
+*   A format for a 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
 ## I have a PRFAQ to include - how do I do that? 
 
-1.  Create a new PRFAQ as a .txt - no fancy .docs or other formats here!
-2.  Start a pull request in the /collections folder, or shoot your PRFAQ over to newprfaq at boundedlabs.com and we will add it eventually. 
-3.  Enjoy!
-
-### There's a horizontal rule below this.
+1.  Copy the template that is included below (or use another if you like something similar).
+2.  Include your PRFAQ in the body of an email. Be sure to include the entire PRFAQ in the body (information in the subject line will not be used). 
+3.  Send your PRFAQ to newprfaq at boundedlabs.com and we will review it and include it in our directory, if deemed useful members. 
+4.  Share this resource with those who might find it useful!
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-```
 A [Bounded Labs](boundedlabs.com) project.
-```
+* * *
