@@ -21,7 +21,7 @@ Limit each press release section of your PRFAQ to 4-5 sentences.
 
 ## Examples of PRFAQs:
 
-* [Bounded Labs](boundedlabs.com)
+*  https://github.com/bounded-labs/prfaq/blob/main/collection/AcmeReleasesSmartEmailtoitscustomers.md
 
 ## I have a PRFAQ to include - how do I do that? 
 
