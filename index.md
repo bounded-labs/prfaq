@@ -62,6 +62,6 @@ Limit each press release section of your PRFAQ to 4-5 sentences.
 
 
 * * *
-A [Bounded Labs](boundedlabs.com) project.
+A [Bounded Labs](https://www.boundedlabs.com) project.
 * * *
 
