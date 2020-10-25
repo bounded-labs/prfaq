@@ -1,4 +1,4 @@
-# Acme Releases Smart Email to its customers\
+# Acme Releases Smart Email to its customers
 
 ## Acme's smart email tool uses predictive text to make writing emails 10 times faster
 
