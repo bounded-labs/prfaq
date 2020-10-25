@@ -1,4 +1,4 @@
-# PRFAQ.fyi
+# prfaq.fyi
 
 This is a project of [Bounded Labs](https://www.boundedlabs.com), built for people who are looking for examples of PRFAQs and are willing to contribute their created examples for others!
 * * * 
