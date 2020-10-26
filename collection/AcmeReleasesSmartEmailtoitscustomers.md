@@ -2,7 +2,7 @@
 
 ## Acme's smart email tool uses predictive text to make writing emails 10 times faster
 
-Acme is excited to announce the addition of smart predictive text to our email products. The new capability, \'93Smart Email\'94, suggests the next few words in a sentence while a customer is typing that email. The customer can hit Enter or Tab to accept those words, rather than manually typing each one. Because many of the emails that we write tend have a lot of repeated text, this can make composing emails up to 10 times faster. With Acme Smart Email, you can focus on what is unique and important in your email, leaving the rote parts to the smart suggestions.
+Acme is excited to announce the addition of smart predictive text to our email products. The new capability, Smart Email, suggests the next few words in a sentence while a customer is typing that email. The customer can hit Enter or Tab to accept those words, rather than manually typing each one. Because many of the emails that we write tend have a lot of repeated text, this can make composing emails up to 10 times faster. With Acme Smart Email, you can focus on what is unique and important in your email, leaving the rote parts to the smart suggestions.
 
 Writing emails is a repetitive task and throughout the day, many people type some phrases over and over again. Existing solutions with acronyms and templates have severe shortcomings. Acronyms can create confusion or make an email appear rushed and impolite. Many people use templates for emails, but templates can be inefficient to edit: by the time someone has clicked on the template in a few different places to change the text, it might have been quicker and easier to manually type the entire email from scratch.
 
@@ -15,3 +15,10 @@ Acme Email users can start using this feature today. When you start composing yo
 "Smart Email is saving us hundreds of hours of work every week!" said Via Velox, Director of Marketing at Geo Coccyx. "Smart Email became my team's new favorite tool. After just a few days it learned my style and was suggesting content that sounded natural and was composed exactly right for our style-guides!"
 
 Log on to your Acme Email account today to begin using this feature! You can use the feature for free for up to 1,000 emails per week while Acme Email is in beta mode.
+
+
+#### How much does this cost? 
+* $5 million / year
+
+#### What email services does it work with? 
+* Only Yahoo at the moment, but Outlook coming soon!
