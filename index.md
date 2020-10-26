@@ -61,7 +61,7 @@ Limit each press release section of your PRFAQ to 4-5 sentences.
 
 #### FAQs
 *  What sort of questions can be included? 
-	*  Any sort of question that a potential customer might be interested! 
+	*  Any sort of question that a potential customer might be interested in! 
 
 
 * * *
