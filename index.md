@@ -59,6 +59,9 @@ Limit each press release section of your PRFAQ to 4-5 sentences.
 #### Call to Action
 *  Drive the value home, and describe what interested customers can do to learn more.
 
+#### FAQs
+*  What sort of questions can be included? 
+	*  Any sort of question that a potential customer might be interested! 
 
 
 * * *
